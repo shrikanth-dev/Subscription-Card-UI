@@ -20,12 +20,12 @@ A clean, responsive Subscription Card UI built with HTML and CSS for practice an
 
 ### Screenshot
 
-![Subscription Card Screenshot](screenshot.png) 
+![Subscription Card Screenshot](Subscription-Card-UI.png) 
 
 ### Links
 
--  [Live Site URL]()
-- [Solution URL]()
+-  [Live Site URL](https://shrikanth-dev.github.io/Subscription-Card-UI/)
+- [Solution URL](https://github.com/shrikanth-dev/Subscription-Card-UI)
 ### Built with
 
 - Semantic HTML5
@@ -34,4 +34,4 @@ A clean, responsive Subscription Card UI built with HTML and CSS for practice an
 
 ## Author
 
-
+- LinkedIn - [@G Srikanth](https://www.linkedin.com/in/g-srikanth-gs)
